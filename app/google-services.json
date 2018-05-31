@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "262200597665",
+    "firebase_url": "https://fiebasetelecommunicationssolut.firebaseio.com",
+    "project_id": "fiebasetelecommunicationssolut",
+    "storage_bucket": "fiebasetelecommunicationssolut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262200597665:android:bcf1b88078ec8154",
+        "android_client_info": {
+          "package_name": "com.example.a123.fiebasetelecommunicationssolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262200597665-scpf8o61mss132hgp7g2r6ll6b1l6kku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a123.fiebasetelecommunicationssolutions",
+            "certificate_hash": "21d47f09dbcf133f62a40fe641a4ba7a20b1c9be"
+          }
+        },
+        {
+          "client_id": "262200597665-6bvgojjsgs7oesb0j3tvc853s8628be5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a123.fiebasetelecommunicationssolutions",
+            "certificate_hash": "955112ae9d5c168b06da055394712882c5051ed3"
+          }
+        },
+        {
+          "client_id": "262200597665-ofv4k87rq9qsdd6281386qcloodn34fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUROYNJaGlGbNOKSUh1PEIgb089-XerE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262200597665-ofv4k87rq9qsdd6281386qcloodn34fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262200597665:android:dc8cd65f2137b6a8",
+        "android_client_info": {
+          "package_name": "com.firebase.phone.fiebasetelecommunicationssolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262200597665-ofv4k87rq9qsdd6281386qcloodn34fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUROYNJaGlGbNOKSUh1PEIgb089-XerE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
